@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+	<title>Library Table Talk</title>
+	<link>https://hdl.handle.net/11299/264042</link>
+	<language>en-us</language>
+	<description><![CDATA[<p> Library Table Talk is a podcast exploring what academic librarianship looks like in the day-to-day across different types of institutions and roles. We invite other librarians for firendly and more informal conversations about the practicalities, responsibilities, challenges, joys and realities of academic librarianship, as a job and a career.</p> <p>Nothing is off the table!</p> <p>For more information, visit the Library Table Talk website at z.umn.edu/LibraryTableTalk </p>]]</description>
+	<itunes:image href="https://conservancy.umn.edu/server/api/core/bitstreams/fbd1805e-099f-45af-9e6b-6ea9cc51eaa7/content"/>
+	<itunes:category text="Careers"></itunes:category>
+	<itunes:category text="Education">
+	</itunes:category>
+  <item>
+	<title>Episode 00 - Trailer</title>
+	<itunes:episodeType>trailer</itunes:episodeType>
+	<link>https://hdl.handle.net/11299/264209</link>
+	<guid isPermaLink="true">https://hdl.handle.net/11299/264209</guid>
+	<enclosure length="373" type="audio/mpeg” url="https://conservancy.umn.edu/bitstreams/25f9aa5a-bb76-4b98-9d75-b88567fe7f24/download" </enclosure>
+	<pubDate>June 2024</pubDate>
+	<itunes:duration>373</itunes:duration>
+	<description>This episode features Hannah Cabullo and Stephanie Sparrow, librarians at University Libraries. 6:13 minutes runtime. For more information, please refer to the Library Table Talk website at z.umn.edu/LibraryTableTalk</description>
+	<podcast:transcript url="https://conservancy.umn.edu/bitstreams/8f9b8d40-5e40-4c00-8cee-279b32e9e263/download">
+  </item>
+  <!-- One item per episode -->
+</channel>
+</rss>
